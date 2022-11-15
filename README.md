@@ -174,30 +174,30 @@ endmodule
 ### RTL LOGIC FOR FLIPFLOPS 
 
 1.SR FLIP FLOP:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/img%201.jpg)
 
 2.D FLIP FLOP:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/img%202.jpg)
 
 3.JK FLIP FLOP:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/img%203.jpg)
 
 4.T FLIP FLOP:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/img%204.jpg)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 1.SR FLIP FLOP:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/img%205.jpg)
 
 2.D FLIP FLOP:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/img%206.jpg)
 
 3.JK FLIP FLOP:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/img%207.jpg)
 
 4.T FLIP FLOP:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/img%208.jpg)
 
 ### RESULTS 
 All the flipflops are implementde using verilog and their functionality has been validated using their functional tables.
